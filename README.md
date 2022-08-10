@@ -38,7 +38,7 @@
 <img src="https://i.ibb.co/T1JSyjF/Discord.png" width="50"/>
   </a>
   <a href="https://steamcommunity.com/id/Sovthought/">
-<img src="https://i.ibb.co/ZH6ybgF/Spotify.png" width="50"/>
+<img src="https://i.ibb.co/R2bsF1x/steam.png" width="50"/>
   </a>
   <a href="https://t.me/Sovenokfromourworld">
 <img src="https://i.ibb.co/Rh6J94D/Telegram.png" width="50"/>
