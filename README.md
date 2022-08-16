@@ -43,7 +43,7 @@
   <a href="https://t.me/Sovenokfromourworld">
 <img src="https://i.ibb.co/Rh6J94D/Telegram.png" width="50"/>
   </a>
-   <a href="https://ru.pinterest.com/temashaydrov/">
+   <a href="https://ru.pinterest.com/Sov_though/">
 <img src="https://i.ibb.co/nkJ3Ybp/Pinterest.png" width="50"/>
   </a>
    <a href="https://soundcloud.com/sovenok-834480361">
