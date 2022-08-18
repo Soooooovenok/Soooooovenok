@@ -25,7 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Soooooovenok&show_icons=true&theme=github_dark&locale=ru&hide_border=true&no-bg=true&custom_title=" >
 </div>
    <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soooooovenok&layout=compact&theme=github_dark&locale=ru&hide_border=true&no-bg=true&custom_title=  " >
 </div>
 
 ---
