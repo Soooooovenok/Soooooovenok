@@ -1,6 +1,3 @@
-<div id="header"align="center">
-	<img src="https://i.ibb.co/hfmBR4R/Scene-05-00000.png"width="500"/>
-</div>
 
 ---
 
@@ -30,9 +27,6 @@
 ---
 
 <div align="center">
-	<img align="right"src="https://i.ibb.co/WBRXSD4/4.png"width="250">
-	<img align="left"src="https://i.ibb.co/xFBX43r/2.png"width="223">
-	<img align="left"src="https://i.ibb.co/4K3JJWH/1.png"width="223">
 	<img align="center" src="https://i.ibb.co/SBkfRzW/contact-Me.png"width="260"/><p>
 		<a href="https://discordapp.com/users/425332814393638912/">
 			<img src="https://i.ibb.co/T1JSyjF/Discord.png"width="50"/>
