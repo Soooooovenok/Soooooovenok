@@ -1,6 +1,3 @@
-
----
-
 <div id="header"align="center">
 	<img src="https://i.ibb.co/3FdHqT4/my-Trophies.png"width="200"/>
 </div>
